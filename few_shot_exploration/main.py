@@ -54,5 +54,4 @@ formatted_prompt = prompt.format_messages(
 )
 
 print("=== Prompt Sent ===\n", formatted_prompt[0].content, "\n")
-
 print("=== Result ===\n", result)
