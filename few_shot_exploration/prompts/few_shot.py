@@ -23,4 +23,4 @@ def create_few_shot_examples(df, n=2):
 
     # Concatenate the sampled DataFrames
     sampled_df = pd.concat(sampled_dfs).reset_index(drop=True)
-    return sampled_df
+    return sampled_df 
