@@ -70,4 +70,4 @@ ROUGE-L: 0.37
 
 ## Report & Analysis
 For a detailed report on findings and term analysis, refer to:
-[Phrase Mining Report (PDF)](report/NLP-Title-Generation.pdf). 
+[Phrase Mining Report (PDF)](report/NLP-Title-Generation.pdf).  
